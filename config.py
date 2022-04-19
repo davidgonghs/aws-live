@@ -1,4 +1,4 @@
-customhost = "assignment.cge3padjnblm.us-east-1.rds.amazonaws.com"
+customhost = "ccassignment.cge3padjnblm.us-east-1.rds.amazonaws.com"
 customuser = "admin"
 custompass = "12345678"
 customdb = "employee"
