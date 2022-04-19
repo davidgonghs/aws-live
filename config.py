@@ -1,6 +1,6 @@
 customhost = "ccassignment.cge3padjnblm.us-east-1.rds.amazonaws.com"
 customuser = "admin"
 custompass = "12345678"
-customdb = "employee"
+customdb = "ccassignment"
 custombucket = "cc-assignment-bucket"
 customregion = "us-east-1"
